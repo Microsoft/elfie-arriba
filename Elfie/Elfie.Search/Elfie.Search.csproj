@@ -31,7 +31,7 @@
     <PackageReference Include="Microsoft.CodeAnalysis" Version="2.1.0" />
     <PackageReference Include="Microsoft.Composition" Version="1.0.30" />
     <PackageReference Include="Microsoft.CodeAnalysis.Elfie" Version="0.10.6" ExcludeAssets="all" />
-    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
